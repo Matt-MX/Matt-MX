@@ -1,72 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>PackHub</title>
-	<link rel="shortcut icon" type="image/ico" href="/assets/PackHub.ico"/>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="nofollow"/>
+<h1 align="center">Hello There!</h1>
 
-    <meta name="description" content="PackHub">
-    <meta name="keywords" content="Minecraft Packs Texture Packs Resource Packs">
-    <meta name="author" content="mattmx.com">
-    <link rel="icon" href="/assets/PackHub.ico">
+### :smiley_cat: I am a 2nd year student at college, studying Maths, Electronics and Computer Science at A-Level!
 
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="PackHub">
-    <meta property="og:title" content="PackHub">
-    <meta property="og:description" content="PackHub - Minecraft Packs">
-    <meta property="og:image" content="https://image">
-    <meta name="theme-color" content="#12345">
+### Call me matt.
 
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="PackHub">
-    <meta property="twitter:title" content="PackHub">
-    <meta property="twitter:description" content="PackHub - Minecraft Packs">
-    <meta property="twitter:image" content="https://image">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="dist/style.css">
-    <script src="https://kit.fontawesome.com/5acf4d9e80.js" crossorigin="anonymous"></script>
+## Github Statistics 🚀
+![MattMX's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-MX&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matt-MX&theme=tokyonight" alt="mystreak"/>
+![MattMX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-MX&theme=tokyonight&layout=compact)
 
-</head>
-<body>
-	<div class="crossfade">
-		<figure></figure>
-		<figure></figure>
-		<figure></figure>
-		<figure></figure>
-		<figure></figure>
-	</div>
-<!--	<button id="info-modal-button"><div class="info"><p>&#9432;</p></div></button>-->
+🌱 I'm currently learning JS and web development!
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-mattmcconville@outlook.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mattmcconville@outlook.com)](mattmcconville@outlook.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/matt_mcx/)](https://www.instagram.com/matt_mcx/)
+
+
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
+
+------
+Credit [@AkuraDiary](https://github.com/AkuraDiary) for template.
+
 <!--
-	<div class="info-modal-content">
-		<span class="close">&times;</span>
-		<p>Some text in the modal</p>
-	</div>
--->
-	<!--- Particles -->
-	<div class="animation-wrapper"> <div class="particle particle-1"></div> <div class="particle particle-2"></div> <div class="particle particle-3"></div> <div class="particle particle-4"></div> </div>
-    <div class="center">
-        <div class="animate__animated animate__jackInTheBox animate__bounceOutUp">
-            <h1>PackHub</h1>
-            <p>Minecraft Texture pack hub.</p>
-            <div class="animate__animated animate__bounceIn animate__delay-1s">
-                <a href="https://discord.gg/packs" target="_blank"><button class="btn1"><i class="fab fa-discord"></i> Discord</button></a>
-                <!-- <a href="http://shop.pvphub.me"><button class="btn2"><i class="fas fa-shopping-basket"></i> Store</button></a>
-                <a href="#"><button class="btn3"><i class="fas fa-poll"></i> Vote</button></a> -->
-            </div>
-        </div>
-    </div>
-		<div class="server"><span class="join">
-			<p>Join our Server</p>
-		</span></div>
+**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-	<script src="app/js/main.js" type="text/javascript"></script>
-	<script src="app/js/script.js"></script>
-  <script src="https://kit.fontawesome.com/5acf4d9e80.js" crossorigin="anonymous"></script>
-</body>
-</html>
-<!--- WEBSITE BY: github.com/OLIMINATOR -->
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
