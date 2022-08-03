@@ -18,6 +18,7 @@
 
   (these stats are inacurate af)
 </p>
+<h1 align ="center"><img src="https://discord.c99.nl/widget/theme-4/312693889582759938.png"></h1>
 
 🌱 Current reinforcing my knowledge of backend and API interaction
 
