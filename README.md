@@ -1,3 +1,5 @@
+<p align="center"><img src="./PersonalBanner.png" width=100%></p>
+
 <h1 align="center">Hello There!</h1>
 
 ### :smiley_cat: I am a 2nd year student at college, studying Maths, Electronics and Computer Science at A-Level!
