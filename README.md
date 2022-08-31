@@ -22,7 +22,7 @@
 </p>
 <h1 align ="center"><img src="https://discord.c99.nl/widget/theme-4/312693889582759938.png"></h1>
 
-🌱 Current reinforcing my knowledge of backend and API interaction
+🌱 Currently working with Cloaks+ and PvPHub (and loving Kotlin)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
