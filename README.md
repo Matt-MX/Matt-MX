@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello There!</h1>
 
-### :smiley_cat: I am a 2nd year student at college, studying Maths, Electronics and Computer Science at A-Level!
+### :smiley_cat: Currently studying at University for Software Enginerring
 
 ### Call me matt.
 
