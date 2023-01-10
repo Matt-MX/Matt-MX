@@ -1,27 +1,5 @@
 <p align="center"><img src="./PersonalBanner.png" width=100%></p>
 
-<h1 align="center">Hello There!</h1>
-
-### :smiley_cat: Currently studying at University for Software Enginerring
-
-### Call me matt.
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Github Statistics 🚀
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Matt-MX&show_icons=true&theme=monokai">
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matt-MX&theme=monokai" alt="mystreak"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-MX&theme=monokai&layout=compact">
-
-  (these stats are inacurate af)
-</p>
-<h1 align ="center"><img src="https://discord.c99.nl/widget/theme-4/312693889582759938.png"></h1>
-
 🌱 Currently working with Cloaks+ and PvPHub (and loving Kotlin)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
