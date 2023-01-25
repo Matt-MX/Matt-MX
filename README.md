@@ -6,7 +6,7 @@
 
 ## Contact me :
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1019655398053134336)](https://discord.com/users/1019655398053134336)
+[![Discord Presence](https://lanyard.cnrad.dev/api/312693889582759938)](https://discord.com/users/312693889582759938)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/matt_mcx/)](https://www.instagram.com/matt_mcx/)
 
