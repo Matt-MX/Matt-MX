@@ -1,6 +1,6 @@
 <p align="center"><img src="./PersonalBanner.png" width=100%></p>
 
-🌱 21 y/o, attending university full time studying software engineering.
+🌱 22 y/o, Software Engineer Graduate
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/09cb6dec4c3c015155fc23fc9af839fd138b29652974a709e8c807d566e9b502/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333746353246462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465">
